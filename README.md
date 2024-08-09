@@ -1,1 +1,1 @@
-This is the first task I was given as my internship Project at prodigy Infotech.It uses a simple encryption algorith and developed in python.This python program encrypts or decrypts a user message by caeser cipher algorithm. User have to specify a shift value for encryption or decryption.
+
